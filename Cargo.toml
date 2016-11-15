@@ -1,0 +1,8 @@
+[package]
+name = "gen_ipdl_parser"
+version = "0.1.0"
+authors = ["Andrew McCreight <continuation@gmail.com>"]
+
+[dependencies]
+lalrpop-util = "0.12.1"
+regex = "0.1.77"
